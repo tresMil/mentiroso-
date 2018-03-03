@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1,  HOLA Billy Amer
+#EXTINF:-1,FOX  HD
+http://clarines.jl.serv.net.mx/stream/FOX_HD/04.m3u8
+#EXTINF:-1,FOX FAMILY HD
+http://clarines.jl.serv.net.mx/stream/FOXFAMILY_HD/04.m3u8
+#EXTINF:-1,FOX1 SUB
+http://clarines.jl.serv.net.mx/stream/FOX1_HD_SUB/04.m3u8
+#EXTINF:-1,FOX1
+http://clarines.jl.serv.net.mx/stream/FOX1_HD/04.m3u8
+#EXTINF:-1,HBO2
+http://clarines.jl.serv.net.mx/stream/HBO_2_HD/04.m3u8
+#EXTINF:-1,HBO famyly
+http://clarines.jl.serv.net.mx/stream/HBO_FAMILY_HD/04.m3u8
+#EXTINF:-1,HBO2
+http://clarines.jl.serv.net.mx/stream/HBO_HD/04.m3u8
+#EXTINF:-1,HBO sub
+http://clarines.jl.serv.net.mx/stream/HBO_HD_SUB/04.m3u8
+#EXTINF:-1,FOX SPORTS
+https://live11.userapi.com/637605/live/24rL6j1CfSE/playlist.m3u8
+#EXTINF:-1,FOX SPORTS
+https://live11.userapi.com/639911/live/7Bpb3UVCfVk/playlist.m3u8
+#EXTINF:-1,FOX SPORTS
+https://live11.userapi.com/639915/live/7D5_3VpCfUY/playlist.m3u8
+#EXTINF:-1,FOX SPORTS
+https://cdn.younow.com/php/api/broadcast/videoPath/hls=1/broadcastId=177342811_live.m3u8
+#EXTINF:-1,Juegos Olímpicos de Invierno Ch 1
+http://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch1/Winter_Olympic_Ch1_800.m3u8
+#EXTINF:-1,Juegos Olímpicos de Invierno Ch 2
+http://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Winter_Olympic_Ch2/Winter_Olympic_Ch2_800.m3u8
+#EXTINF:-1,Star Sports HD 1
+http://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_1/Star_Sports_HD_1_800.m3u8
+#EXTINF:-1,Star Sports HD 2
+http://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_HD_2/Star_Sports_HD_2_800.m3u8
+#EXTINF:-1,Star Sports Select HD 1
+http://hyfytvapp.com/NkQLb6uUFt33NkJ1122VVv88GAX/Star_Sports_Select_HD_1/Star_Sports_Select_HD_1_800.m3u8
+#EXTINF:-1,ESPN
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,ESPN 2
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN2_HD)/Stream(03)/index.m3u8
+#EXTINF:-1,F1
+http://189.216.247.113/Content/HLS/Live/Channel(CANAL_F1_LATAM)/index.m3u8
+#EXTINF:-1,NbaTv
+http://189.216.247.113/Content/HLS/Live/Channel(NBA_TV)/index.m3u8
+#EXTINF:-1,TDN
+http://189.216.247.113/Content/HLS/Live/Channel(TDN)/index.m3u8
